@@ -16,3 +16,5 @@ $$T = \frac{PFD \times VAFed}{P}$$
 Para una correcta usabilidad docente, se utiliza una escala de **0 a 5**:
 - **0 (Óptimo):** Sin impacto negativo en el aprendizaje.
 - **5 (Crítico):** Impacto total, requiere máximo recargo de tiempo.
+- Este trabajo se encuentra publicado en zenodo
+- https://doi.org/10.5281/zenodo.19411188
